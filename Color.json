@@ -1,0 +1,35 @@
+{
+  "name": "Mint Neumorphic Theme",
+  "dataColors": [
+    "#2E8B7D",
+    "#3FA796",
+    "#A8D5C2",
+    "#6FCF97",
+    "#27AE60",
+    "#52BE80"
+  ],
+  "background": "#EAF3F1",
+  "foreground": "#2F4F4F",
+  "tableAccent": "#2E8B7D",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "solid": { "color": "#F7FBFA" } }],
+        "color": [{ "solid": { "color": "#2F4F4F" } }]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{ "solid": { "color": "#F7FBFA" } }],
+        "border": [{ "color": { "solid": { "color": "#D6E5E3" } } }],
+        "cornerRadius": 15
+      }
+    },
+    "titleText": {
+      "*": {
+        "color": [{ "solid": { "color": "#2E8B7D" } }],
+        "fontSize": 16
+      }
+    }
+  }
+}
