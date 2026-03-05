@@ -2,85 +2,82 @@
 
 ## 📌 Project Overview
 
-This project presents a **Power BI dashboard analyzing the Parag Parikh Flexi Cap Fund**, focusing on fund fundamentals, portfolio composition, and performance analysis.
+This project presents a **Power BI dashboard analyzing the Parag Parikh Flexi Cap Fund**.
+The dashboard provides insights into **fund fundamentals, portfolio allocation, and performance trends**.
 
-The dashboard helps investors and analysts understand:
-
-* 📈 Fund growth over time
-* 📊 Performance comparison with benchmark (Nifty 50)
-* 🏦 Portfolio allocation and top holdings
-* 💰 Market capitalization distribution
-* 📉 Risk indicator and investment insights
-* 💵 SIP investment simulation
-
-The goal of this project is to demonstrate **data visualization, financial analytics, and Power BI dashboard development skills**.
+It demonstrates how **data analytics and visualization can help investors understand fund performance and portfolio structure**.
 
 ---
 
 # 🖥️ Dashboard Preview
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard](screenshot.png)
 
 ---
 
-# 📊 Dashboard Pages
+# 📊 Dashboard Sections
 
 ## 1️⃣ Fundamentals
 
-This page provides a **high-level overview of the mutual fund**.
+The **Fundamentals page** provides a high-level overview of the mutual fund.
 
 ### Key Metrics
 
 * Assets Under Management (AUM)
 * Expense Ratio
 * Exit Load
-* Minimum SIP investment
+* Minimum SIP Investment
 
-### Portfolio Insights
+### Portfolio Overview
 
-* Asset allocation (Equity, Debt, Other)
-* Market capitalization distribution
-* Risk indicator
-* SIP investment simulator
-* Investment outcome (Total Invested, Current Value, Profit)
+* Asset Allocation (Equity / Debt / Other)
+* Market Capitalization Distribution
+* Risk Indicator
+* SIP Investment Simulator
+
+### Investment Outcome
+
+* Total Invested
+* Current Portfolio Value
+* Profit Generated
 
 ---
 
 ## 2️⃣ Performance Analysis
 
-This page analyzes the **historical performance of the fund**.
+The **Performance page** evaluates the fund's historical performance.
 
-### Visualizations Included
+### Key Visualizations
 
-* NAV growth trend
-* Fund vs Nifty benchmark comparison
-* Annual return analysis
-* Portfolio holdings overview
+* NAV Growth Trend
+* Fund vs Nifty Benchmark Comparison
+* Annual Return Analysis
+* Portfolio Holdings Table
 
-These visualizations help investors understand **how the fund performs relative to the broader market**.
+These visuals help evaluate **how the fund performs relative to the market benchmark**.
 
 ---
 
-# 🛠️ Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 * **Power BI**
 * **Microsoft Excel**
 * **DAX (Data Analysis Expressions)**
-* **Financial Market Data**
+* Financial Market Data
 
 ---
 
 # 📂 Dataset
 
-The dataset used for this project includes:
+The dataset used in this project includes:
 
 * Historical **NAV (Net Asset Value)** data
-* **Benchmark index data (Nifty 50)**
+* **Benchmark data (Nifty 50 index)**
 * **Portfolio holdings**
 * **Sector allocation**
-* **Market capitalization distribution**
+* **Market capitalization categories**
 
-Data was cleaned and transformed before being used in the Power BI dashboard.
+Data was cleaned and prepared before building the dashboard.
 
 ---
 
@@ -99,10 +96,10 @@ Parag-Parikh-Dashboard---BI
 
 # 🔍 Key Insights
 
-* The fund demonstrates **consistent long-term NAV growth**.
-* Portfolio is largely allocated to **large-cap companies**.
-* Financial and service sectors dominate the portfolio.
-* SIP investment simulation shows **steady wealth creation over time**.
+* The fund shows **steady long-term NAV growth**.
+* Portfolio allocation is dominated by **large-cap stocks**.
+* Financial and service sectors have significant exposure.
+* SIP simulation demonstrates **consistent long-term wealth creation**.
 
 ---
 
@@ -110,13 +107,11 @@ Parag-Parikh-Dashboard---BI
 
 **Sidharth**
 
-Aspiring Data Analyst | Power BI Enthusiast | Financial Analytics
+Data Analytics | Power BI | Financial Analysis
 
-GitHub:
+GitHub Profile:
 https://github.com/sidharth7987
 
 ---
 
-# ⭐ If you found this project useful
-
-Consider giving the repository a **star** ⭐
+⭐ If you like this project, consider **starring the repository**.
