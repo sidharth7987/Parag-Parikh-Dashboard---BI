@@ -11,7 +11,7 @@ It demonstrates how **data analytics and visualization can help investors unders
 
 # 🖥️ Dashboard Preview
 
-![Dashboard](Screenshot_2026-03-05_182208.png)
+![Dashboard](01_Screenshot.png)
 
 ---
 
